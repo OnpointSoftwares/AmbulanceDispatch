@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Sep 19 13:01:58 EAT 2022
+2.base=C\:\\Users\\vincent\\AndroidStudioProjects\\MedRescue\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+0.path=classes.dex
+count=3
+1.set=DEX
+2.path=classes2.dex
+2.baseType=DIRECTORY
+0.base=C\:\\Users\\vincent\\AndroidStudioProjects\\MedRescue\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.set=DEX
+1.baseType=DIRECTORY
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.base=C\:\\Users\\vincent\\AndroidStudioProjects\\MedRescue\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+0.set=DEX
